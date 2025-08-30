@@ -1,12 +1,6 @@
-﻿### [ Practice Module ] Project Submission Template: Github Repository & Zip File
+### [ Practice Module ] Project Submission Template: Github Repository & Zip File
 
-**[ Naming Convention ]** CourseCode-StartDate-BatchCode-TeamName-ProjectName.zip
-
-* **[ MTech Thru-Train Group Project Naming Example ]** IRS-PM-2020-01-18-IS02PT-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-* **[ MTech Stackable Group Project Naming Example ]** IRS-PM-2020-01-18-STK02-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-[Online editor for this README.md markdown file](https://pandao.github.io/editor.md/en.html "pandao")
+**[ Naming Convention ]** IRS-PM-2025-08-30-IS02PT-GRP-StopCoding-BrainBag
 
 ---
 
@@ -38,15 +32,13 @@ Our team had an amazing time working on this project, and hope to share our insi
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
-| :------------ |:---------------:| :-----| :-----|
-| Desmond Chua | A1234567A | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567A@nus.edu.sg |
-| Chang Ye Han | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567B@gmail.com |
-| Chee Jia Wei | A1234567C | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567C@outlook.com |
-| Ganesh Kumar | A1234567D | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567D@yahoo.com |
-| Jeanette Lim | A1234567E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567E@qq.com |
-
----
+| Name         | Email              | Phone    | Student ID |
+| ------------ | ------------------ | -------- | ---------- |
+| Shang Jiakun | e1553372@u.nus.edu | 86696094 | A0329045E  |
+| Ke Liwen     | e1553817@u.nus.edu | 80840573 | A0329490X  |
+| Yu Guotao    | e1554269@u.nus.edu | 94458679 | A0329942U  |
+| Liu Jiajia   | e1553327@u.nus.edu | 80387717 | A0329000X  |
+| Yan Huaju    | e1553823@u.nus.edu | 89415266 | A0329496L  |
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
