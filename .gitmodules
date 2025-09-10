@@ -1,0 +1,6 @@
+[submodule "What2Eat-frontend-agent-chat-ui"]
+	path = What2Eat-frontend-agent-chat-ui
+	url = git@github.com:NUS-AIS-Practice-Modules/What2Eat-frontend-agent-chat-ui.git
+[submodule "What2Eat-backend-LangGraph-py"]
+	path = What2Eat-backend-LangGraph-py
+	url = git@github.com:NUS-AIS-Practice-Modules/What2Eat-backend-LangGraph-py.git
